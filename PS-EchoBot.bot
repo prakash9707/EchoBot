@@ -1,0 +1,61 @@
+{
+  "name": "PS-EchoBot",
+  "padlock": "nIHtpZUzbJM70v1RlHcj+g==!8PubdmkDp4i/yOZVYA5RTkT3Wu6qtsX7VGD1GzgK3zNpTW4Jpm8HndPQ5XMZSu6+",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "97a80a72-fec2-4577-81ad-2da2880ff7bb",
+      "subscriptionId": "98846a4a-670c-426e-beac-362d79862397",
+      "resourceGroup": "Cost",
+      "serviceName": "PS-EchoBot",
+      "type": "abs",
+      "name": "PS-EchoBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "AkxpNyqNA3XMtWwfe8laMQ==!jA/KeEEGmWtRBeiMvnAj2UtLuY4ksv6It5fWz9y2+2qsSCoEzVI8cE1vxBY86BMEU/GivoCutbWcRW4YGbrtGmb0mWlMfi539bxbFoCzZ2SOoQMsv5WSbi3tOco9bO8V3p5ovI+iIkMfdfUL5P0sAnEGKRNgVhjh/JprBrw0XeRjG2K3e/0wZ4XqzakA1XUfkeuuhvKeAGlMifmPkvl3yg==",
+      "tenantId": "97a80a72-fec2-4577-81ad-2da2880ff7bb",
+      "subscriptionId": "98846a4a-670c-426e-beac-362d79862397",
+      "resourceGroup": "Cost",
+      "serviceName": "psechobotb7c7",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "ecc836a6-fc0c-476b-9acc-e8f9f3455777",
+      "appPassword": "iSxbpmpwLhsWjr3rw2GQmw==!qaMuOc9Mu74Ak8sPDJE1L82eRXOVClgQBrsov5oKquE=",
+      "endpoint": "https://ps-echobot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "xVQRhVWNIkq5I/zkVCSF9A==!i4dJSicxjlSplIPGTBfJsQU91OTG7aBu0edt9LnZ/rQDbQuJFeHPxlhQ7TOKho2j",
+      "applicationId": "f94975b1-6162-4b8a-bf57-c4f172b65b1c",
+      "apiKeys": {},
+      "tenantId": "97a80a72-fec2-4577-81ad-2da2880ff7bb",
+      "subscriptionId": "98846a4a-670c-426e-beac-362d79862397",
+      "resourceGroup": "Cost",
+      "serviceName": "PS-EchoBottifcyj",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "5e2d894a-4739-49ce-8753-204bad402050",
+      "authoringKey": "e/XNdoWABcpE+yKlxuN+kA==!JXtn09t3+5gp7dhMLfyOIgKTJiGjfdqOzwOKEEgMVbxxAHogqFC4tZSNWN03Tptk",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
